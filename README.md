@@ -32,7 +32,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
  <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/BRMARKS">
+  <a href="https://github.com/devbymarks">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -71,14 +71,14 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=brmarks&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+<img src="https://streak-stats.demolab.com?user=devbymarks&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
 
 </div>
 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brmarks&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbymarks&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
 </p>
 
 ### 

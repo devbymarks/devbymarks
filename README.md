@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Building reliable backend systems with clean architecture and scalable solutions.
+Building reliable systems with clean architecture and scalable solutions.
 </p>
 
 

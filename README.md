@@ -48,7 +48,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
+  <img src="https://skillicons.dev/icons?i=java,python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,javascript,aws" />
 </p>
 
 <p align="center">

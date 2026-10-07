@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, Matheus Marks</h1>
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">FullStack Developer</h3>
 
 <p align="center">
   <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
@@ -19,13 +19,11 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 <img align="right" src="./astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-**MARKS**, Here  — a first-year Software Engineering student focused on backend development.
+**MARKS** here — a first-year Software Engineering student focused on **Systems Development, Backend Development, and Java**.
 
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+I have hands-on experience with **software development, APIs, databases, SQL, Linux, networking, infrastructure, servers, automation, and backups**, while continuously improving my skills in **Backend and Full Stack development**.
 
-Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
-
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+My goal is to **write clean code, build reliable APIs and systems, work with data and infrastructure, and continuously grow as a software engineer**.
 
 <br clear="right"/>
 
@@ -48,23 +46,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,javascript,aws" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,postgres,mysql,docker,git,github,vscode" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>

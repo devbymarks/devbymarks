@@ -115,10 +115,6 @@ My current goal is to keep strengthening my software engineering fundamentals, w
   </tr>
 </table>
 
-<p align="center">
-  <i>These repositories are portfolio projects and technical labs. Their scope and maturity vary; check each README for current functionality, setup instructions, and limitations.</i>
-</p>
-
 ## <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">

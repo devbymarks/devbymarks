@@ -25,7 +25,6 @@ I work with topics involving **APIs, SQL, relational databases, Linux, networkin
 My portfolio brings together projects related to **backend systems, IT operations, access governance, API diagnostics, database administration, and backup automation**.
 
 My current goal is to keep strengthening my software engineering fundamentals, write maintainable code, improve testing practices, and build reliable systems that solve practical problems.
-
 <br clear="right"/>
 
 ## <h2 align="center">🤝 Connect</h2>
